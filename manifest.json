@@ -1,0 +1,10 @@
+{
+  "id": "obFileType",
+  "name": "obFileType",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Allows opening and editing text-based files like JSON and YAML with syntax highlighting.",
+  "author": "AE-BASOL",
+  "authorUrl": "https://github.com/AE-BASOL/obFileType",
+  "isDesktopOnly": false
+}
