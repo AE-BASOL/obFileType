@@ -30,3 +30,10 @@ None.
 
 - Define requirements in `REQUIREMENTS.md`
 - Generate `ROADMAP.md`
+
+## Quick Tasks Completed
+
+| Date | Slug | Description |
+| ---- | ---- | ----------- |
+| 2026-07-01 | explain-pr-submission | Explain why PR is submitted from a different repo |
+| 2026-07-01 | fix-cd-typo | Fix typo in cd command for PR submission |
